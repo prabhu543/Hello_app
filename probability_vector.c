@@ -24,3 +24,5 @@ int main()
     // if for loop become false this statement will execute
     printf("\n sorry!! it's not a probability vector");
 }
+
+// this is related to maths
